@@ -7,6 +7,7 @@
       <span slot="finish">已完成 {{finishedCount}} 件，共计 {{todosCount}} 件</span>
     </span>
       <button slot="delete" class="btn btn-warning" @click="delFinishedTodos">清除已完成的任务</button>
+    <p></p>
     <Swiper/>
   </div>
 </template>

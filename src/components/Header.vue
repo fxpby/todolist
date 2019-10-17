@@ -42,7 +42,7 @@
   .todo-header input {
     margin: 0 auto;
     display: block;
-    width: 100%;
+    width: 99%;
     height: 28px;
     font-size: 14px;
     border: 1px solid #ccc;

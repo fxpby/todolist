@@ -26,7 +26,7 @@
     },
     methods:{
       // reqData(){
-      //   let url = 'https://www.easy-mock.com/mock/5d40032d6a3ae527e747fea9/example/itlike/p_list'
+      //   let url = ''
       //   axios.get(url).then((response)=>{
       //     console.log(response);
       //   }).catch((error) => {
